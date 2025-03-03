@@ -8,7 +8,7 @@
  <!--お知らせバー-->
  <div class="overflow-hidden w-full bg-blue-500">
   <div class="whitespace-nowrap animate-marquee text-white text-xl font-normal">
-   前の章の内容が前提で書かれている内容もありますー。
+  なかなか書き終わらないな。
   </div>
  </div>
 </template>
